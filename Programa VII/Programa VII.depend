@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1353007490 source:c:\users\amilcar orellana\desktop\programa vii\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+
